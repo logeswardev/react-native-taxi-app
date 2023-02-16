@@ -1,6 +1,6 @@
 Taxi-app
 
-->Frontend: react-native
+->Frontend: react-native <br/>
 ->API: graphQL
 ->Backend: JAVA
 ->AI Implementation: Python
