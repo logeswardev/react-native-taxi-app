@@ -1,13 +1,13 @@
 Taxi-app
 
 ->Frontend: react-native <br/>
-->API: graphQL
-->Backend: JAVA
-->AI Implementation: Python
-
-Install Dependencies:
-Npm : npm install
-yarn: yarn install
-
-Run Application Locally:
-npx expo start
+->API: graphQL <br/>
+->Backend: JAVA <br/>
+->AI Implementation: Python <br/>
+<br/>
+Install Dependencies: <br/>
+Npm : npm install <br/>
+yarn: yarn install <br/>
+<br/>
+Run Application Locally: <br/>
+npx expo start <br/>
